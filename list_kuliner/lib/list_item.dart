@@ -34,7 +34,7 @@ class ListItem extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.center,
           children: [
             ClipRRect(
-              borderRadius: BorderRadius.all(Radius.circular(10)),
+              borderRadius: const BorderRadius.all(Radius.circular(10)),
               child: Image.asset(
                 makanan.gambarUtama,
                 width: 85,
@@ -62,7 +62,7 @@ class ListItem extends StatelessWidget {
                 ],
               ),
             ),
-            Icon(Icons.food_bank_rounded, color: iconColor)
+            const Icon(Icons.food_bank_rounded, color: iconColor)
           ],
         ),
       ),
