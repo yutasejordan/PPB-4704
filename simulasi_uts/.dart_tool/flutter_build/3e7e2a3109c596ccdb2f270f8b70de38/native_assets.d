@@ -1,0 +1,1 @@
+ /home/yutase/Documents/kuliah/semester-5/PPB-4704/simulasi_uts/.dart_tool/flutter_build/3e7e2a3109c596ccdb2f270f8b70de38/native_assets.yaml: 
